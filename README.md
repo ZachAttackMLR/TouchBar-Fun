@@ -1,5 +1,19 @@
-# TouchBar-Fun
-Brief guide detailing how to display cryptocurrency prices on the new MacBook's touchbar by pinging CoinBase's and Kraken's APIs. There are AppleScripts to get prices for Ethereum, Bitcoin, Litecoin, Ripple, and ZCash. I use BetterTouchTool (https://www.boastr.net) as well as JSON Helper (http://www.mousedown.net/mouseware/JSONHelper.html) to do this.
+# Touch-Bar-Crypto-Price-Tracker
+
+AppleScripts to display cryptocurrency prices on the MacBook Touch Bar using the CoinBase and Kraken APIs. 
+
+Support for: Ethereum, Bitcoin, Litecoin, Ripple, Monero and ZCash. 
+
+## Dependencies
+
+[BetterTouchTool](https://www.boastr.net)  
+[JSON Helper](http://www.mousedown.net/mouseware/JSONHelper.html)
 
 ## Instructions
-Download JSON Helper and BetterTouchTool to start. You can use a free version of BTT, but IIRC you will eventually need to pay for it. Cool tool with a variety of uses, and I believe you pick what you pay for it. There's a few options as for when to show the the prices on your touchbar. I keep it so that the prices only display when I'm in Finder, but it's totally up to you :). Once downloaded, click the "+ Widget" icon on the bottom, and then in "Select Widget," "Run AppleScript and Show Return Value." After that click "Advanced Configuration," and paste in the AppleScripts of your choosing. If you'd like the cryptocurrency's logo, they're included in each folder.
+1. Download and install BetterTouchTool and JSON Helper. You can use the free trial of BTT, but eventually you will need to purchase a license for it. 
+2. Open BetterTouchTool and follow the configuration prompts.  
+3. Click the "+ Widget" icon on the bottom. From the "Select Widget" dropdown menu, choose "Run AppleScript and Show Return Value."
+4. Click "Advanced Configuration"
+5. Rename the script to the name of the coin.
+6. Paste the corresponding Applescript in the text box.
+7. Drop the cryptocurrency logo (included in source directories) in the "icon" box.
