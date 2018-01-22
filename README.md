@@ -4,6 +4,8 @@ AppleScripts to display cryptocurrency prices on the MacBook Touch Bar using the
 
 Support for: Ethereum, Bitcoin, Litecoin, Ripple, Monero and ZCash. 
 
+![Interface Preview](img/preview.png)
+
 ## Dependencies
 
 [BetterTouchTool](https://www.boastr.net)  
