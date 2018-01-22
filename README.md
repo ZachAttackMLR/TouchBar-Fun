@@ -1,4 +1,4 @@
-# Touch-Bar-Crypto-Price-Tracker
+# Touch Bar Cryptocurrency Price Display
 
 AppleScripts to display cryptocurrency prices on the MacBook Touch Bar using the CoinBase and Kraken APIs. 
 
