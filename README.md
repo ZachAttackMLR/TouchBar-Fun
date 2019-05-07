@@ -4,7 +4,7 @@
 
 Customize the touch bar using [BetterTouchTool](https://www.boastr.net).
 
-Includes how I set up my touch bar globally, as well as specifically for Preview, and Typora. Instructions for each follow, but you can also just download and import my presets from custom.bttpreset.
+Includes how I set up my touch bar globally, as well as specifically for Preview, and Typora. Instructions for all but global follow. You can also just download and import my presets from custom.bttpreset.
 
 ## Dependencies
 
@@ -42,6 +42,6 @@ All that's really here is the ability to zoom in and zoom out. Just add new touc
 
 # Typora
 
-I take my notes in MarkDown using Typora, which also allows LaTeX. Thus, to aid in note taking in my math classes, I put in some commonly used LaTeX symbols so they're just a keystroke away.
+I take my notes in MarkDown using Typora, which also allows LaTeX. Thus, to aid in note taking in my math classes, I put in some commonly used LaTeX symbols so they're just a keystroke away. This was done exactly like was mentioned in my description for Preview, just more of it. Create a new touchbar button, and then have it paste the text for the LaTeX command you want. I've included a .txt file of all the LaTeX commands.
 
 ![Typora Interface](img/typora_pic.png)
