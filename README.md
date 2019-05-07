@@ -9,7 +9,9 @@ Includes how I set up my touch bar globally, as well as specifically for Preview
 ## Dependencies
 
 [BetterTouchTool](https://www.boastr.net)
+
 [JSON Helper](http://www.mousedown.net/mouseware/JSONHelper.html)
+
 [Typora](https://typora.io)
 
 ## General Instructions
