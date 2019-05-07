@@ -18,9 +18,9 @@ Includes how I set up my touch bar globally, as well as specifically for Preview
 
 # Touch Bar Cryptocurrency Price Display
 
-AppleScripts to display cryptocurrency prices on the MacBook Touch Bar using the CoinBase and Kraken APIs. 
+AppleScripts to display cryptocurrency prices on the MacBook Touch Bar using the CoinBase and Kraken APIs. Since I've initially created this repo, I've moved the display of prices into a folder on my global setup, as seen in the picture of my global interface (the cryptokitty symbol). However, I didn't update the following picture for sake of nostalgia :)
 
-Support for: Ethereum, Bitcoin, Litecoin, Ripple, Monero and ZCash. 
+Support for: Ethereum, Bitcoin, Litecoin, Ripple, Monero and ZCash.
 
 ![Interface Preview](img/preview.png)
 
